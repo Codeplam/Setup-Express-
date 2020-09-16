@@ -1,12 +1,20 @@
 {
   "users": [
+    {},
     {
-      "name": "mm",
-      "id": "0JRPHsJy1"
+      "name": "Phan Văn Minh",
+      "phone": "036567283",
+      "id": "s9DVOhYfn"
     },
     {
       "name": "Goku",
-      "id": "cKVhhST0b"
+      "phone": "",
+      "id": "Bli33DvVA"
+    },
+    {
+      "name": "",
+      "phone": "",
+      "id": "xtGhiy-8o"
     }
   ],
   "posts": []
